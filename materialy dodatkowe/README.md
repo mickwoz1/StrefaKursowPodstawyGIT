@@ -5,3 +5,4 @@
     - https://code.visualstudio.com/download : Edytor
 
 ## Nagółwek nr 2
+error
