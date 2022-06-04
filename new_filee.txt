@@ -1,1 +1,3 @@
 nowy plik na branchu new_branch
+jako mickwoz1
+zmiana name na mickwoz1
