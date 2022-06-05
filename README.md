@@ -20,6 +20,7 @@ Projekt szkoleniowy z strefakursow.pl
    4. [x] .gitignore
    5. [x] Windows command line git
    6. [x] Gitlab branch
+   7. [ ] Merge Request
    
 ## Powiązane kursy
 
