@@ -20,13 +20,7 @@ Projekt szkoleniowy z strefakursow.pl
    4. [x] .gitignore
    5. [x] Windows command line git
    6. [x] Gitlab branch
-   7. [x] Merge Request
-   8. [x] Staging i commiting w Web IDE
-4. [ ] Git pull, commit, push, tags, branch, merging and reverting
-   1. [x] Git Pull i Commit
-   2. [x] Używanie tagów
-   3. [x] Używanie branches (branch)
-
+   
 ## Powiązane kursy
 
 | NAZWA KURSU | ADRES URL | POZIOM KURSU |
