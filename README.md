@@ -21,7 +21,9 @@ Projekt szkoleniowy z strefakursow.pl
    5. [x] Windows command line git
    6. [x] Gitlab branch
    7. [x] Merge Request
-   8. [ ] Staging i commiting w Web IDE
+   8. [x] Staging i commiting w Web IDE
+4. [ ] Git pull, commit, push, tags, branch, merging and reverting
+   1. [ ] Git Pull i Commit
    
 ## Powiązane kursy
 
