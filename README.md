@@ -25,7 +25,9 @@ Projekt szkoleniowy z strefakursow.pl
 4. [ ] Git pull, commit, push, tags, branch, merging and reverting
    1. [x] Git Pull i Commit
    2. [x] Używanie tagów
-   3. [ ] Używanie branches (branch)
+   3. [x] Używanie branches (branch)
+   4. [x] Git Push Tags
+   5. [x] Merging Branches
 
 ## Powiązane kursy
 
